@@ -1,0 +1,33 @@
+name: SimpleGamemode
+version: 1.0
+main: com.simplegamemode.SimpleGamemode
+authors: [MegaNoam]
+description: SimpleGamemode
+website: MegaNoam.com
+
+commands:
+  gamemode:
+    description: simple gamemode command
+    aliases: [gm]
+    permission: simplegamemode.gamemode
+    permission-message: You do not have permission to use this command!
+  survival:
+    description: simple survival command
+    aliases: [gms, gm0]
+    permission: simplegamemode.survival
+    permission-message: You do not have permission to use this command!
+  creative:
+    description: simple creative command
+    aliases: [gmc, gm1]
+    permission: simplegamemode.creative
+    permission-message: You do not have permission to use this command!
+  adventure:
+    description: simple adventure command
+    aliases: [gma, gm2]
+    permission: simplegamemode.adventure
+    permission-message: You do not have permission to use this command!
+  spectator:
+    description: simple spectator command
+    aliases: [gmsp, gm3]
+    permission: simplegamemode.spectator
+    permission-message: You do not have permission to use this command!

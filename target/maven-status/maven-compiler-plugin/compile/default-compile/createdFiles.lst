@@ -1,0 +1,6 @@
+com\simplegamemode\commands\AdventureCommand.class
+com\simplegamemode\commands\GamemodeCommand.class
+com\simplegamemode\commands\SurvivalCommand.class
+com\simplegamemode\SimpleGamemode.class
+com\simplegamemode\commands\CreativeCommand.class
+com\simplegamemode\commands\SpectatorCommand.class
